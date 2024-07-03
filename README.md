@@ -1,1 +1,1 @@
-This is the capstone project for the course COMP309 - Machine Learning Tools and Techniques at Victoria University of Wellington. The task is to classify at least 1500 fruits images into respective category. 
+This is the capstone project for the course COMP309 - Machine Learning Tools and Techniques at Victoria University of Wellington. The task is to classify at least 1500 fruits images into respective category, calculate accuracy using various machine learning techniques.
